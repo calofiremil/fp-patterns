@@ -1,4 +1,4 @@
-package com.tzapps.book.fp;
+package com.tzapps.book.datomic;
 /*
 Java Datalog Engine with Stratified Negation
 
@@ -152,22 +152,17 @@ import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.Set;
 import java.util.HashSet;
-import java.util.Deque;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.stream.Stream;
 import java.util.stream.Collectors;
 import java.util.regex.Pattern;
-import java.util.Objects;
 
 import java.io.PrintStream;
 import java.io.StreamTokenizer;
 import java.io.StringReader;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.io.IOException;
 import java.io.Reader;
-import java.io.FileReader;
 
 class JDatalog {
 
