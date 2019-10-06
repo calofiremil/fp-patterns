@@ -1,0 +1,1990 @@
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 295-296 | Added on Thursday, October 18, 2018 3:31:09 PM
+
+Many so-called “imperative” languages (such as FORTRAN, BASIC, and C) were themselves abstractions of assembly language.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 303 | Added on Thursday, October 18, 2018 3:31:55 PM
+
+Intro
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 302-303 | Added on Thursday, October 18, 2018 3:31:55 PM
+
+Early languages such as LISP and APL chose particular views of the world (“All problems are ultimately lists” or “All problems are algorithmic,” respectively).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 296 | Added on Thursday, October 18, 2018 3:32:19 PM
+
+Intro
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 295-296 | Added on Thursday, October 18, 2018 3:32:19 PM
+
+Many so-called “imperative” languages (such as FORTRAN, BASIC, and C) were themselves abstractions of assembly language.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 303 | Added on Thursday, October 18, 2018 3:34:02 PM
+
+Intro
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 303-303 | Added on Thursday, October 18, 2018 3:34:02 PM
+
+Prolog casts all problems into chains of decisions.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 305 | Added on Thursday, October 18, 2018 3:34:39 PM
+
+Intro
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 304-305 | Added on Thursday, October 18, 2018 3:34:39 PM
+
+Each of these approaches can be a good solution to the particular class of problem they’re designed to solve, but when you step outside of that domain they become awkward.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 300 | Added on Thursday, October 18, 2018 3:36:09 PM
+
+Intro
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 298-300 | Added on Thursday, October 18, 2018 3:36:09 PM
+
+The programmer must establish the association between the machine model (the “solution space,” the place where you’re implementing that solution, such as a computer) and the model of the problem that is actually solved (the “problem space,” the place where the problem exists, such as a business).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 300 | Added on Thursday, October 18, 2018 3:37:30 PM
+
+Intro:Space
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 305 | Added on Thursday, October 18, 2018 3:37:54 PM
+
+Intro:Space
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 305 | Added on Thursday, October 18, 2018 3:38:25 PM
+
+Intro
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 306 | Added on Thursday, October 18, 2018 3:38:45 PM
+
+Intrfo:Space
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 306-306 | Added on Thursday, October 18, 2018 3:38:45 PM
+
+The object-oriented approach goes a step further by providing tools for the programmer to represent elements in the problem space.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 309 | Added on Thursday, October 18, 2018 3:39:42 PM
+
+Intro:Space
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 308-309 | Added on Thursday, October 18, 2018 3:39:42 PM
+
+The idea is that the program adapts itself to the lingo of the problem by adding new types of objects.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 310 | Added on Thursday, October 18, 2018 3:40:29 PM
+
+Intro:Space:Oop
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 309-310 | Added on Thursday, October 18, 2018 3:40:29 PM
+
+When you read the code describing the solution, you’re reading words that also express the problem. This is a more flexible and powerful language abstraction than what we’ve had before.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 313 | Added on Thursday, October 18, 2018 3:41:16 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 311-313 | Added on Thursday, October 18, 2018 3:41:16 PM
+
+There’s still a connection, because objects look somewhat like little computers: Each has state and performs operations. This is similar to objects in the real world—they all have characteristics and behaviors.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 314 | Added on Thursday, October 18, 2018 3:41:50 PM
+
+Info
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 313-314 | Added on Thursday, October 18, 2018 3:41:50 PM
+
+five basic characteristics of SmallTalk, the first successful object-oriented language and a language that inspired Java.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 328 | Added on Thursday, October 18, 2018 3:43:15 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 328-328 | Added on Thursday, October 18, 2018 3:43:15 PM
+
+An object has state, behavior and identity
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 339 | Added on Thursday, October 18, 2018 3:44:09 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 338-339 | Added on Thursday, October 18, 2018 3:44:09 PM
+
+Creating abstract data types (classes) is a fundamental concept in object-oriented programming.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 354-356 | Added on Thursday, October 18, 2018 3:47:09 PM
+
+your problem. Indeed, one of the challenges of object-oriented programming is creating a one-to-one mapping between the elements in the problem space and objects in the solution space.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 349 | Added on Thursday, October 18, 2018 3:47:52 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 349-349 | Added on Thursday, October 18, 2018 3:47:52 PM
+
+a programmer defines a class to fit a problem
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 377 | Added on Thursday, October 18, 2018 3:51:29 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 376-377 | Added on Thursday, October 18, 2018 3:51:29 PM
+
+When trying to develop or understand a program design, an excellent way to think about objects is as “service providers.”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 378 | Added on Thursday, October 18, 2018 3:51:53 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 378-379 | Added on Thursday, October 18, 2018 3:51:53 PM
+
+Your goal is to produce (or better, locate in existing code libraries) a set of objects providing the ideal services to solve your problem.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 380 | Added on Thursday, October 18, 2018 3:52:25 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 379-380 | Added on Thursday, October 18, 2018 3:52:25 PM
+
+A way to start doing this is to ask, “If I could magically pull them out of a hat, what objects would solve my problem right away?”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 387 | Added on Thursday, October 18, 2018 3:54:07 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 385-387 | Added on Thursday, October 18, 2018 3:54:07 PM
+
+Thinking of an object as a service provider has an additional benefit: It helps improve the cohesiveness of the object. High cohesion is a fundamental quality of software design: It means the various aspects of a software component (such as an object, although this could also apply to a method or a library of objects) “fit together”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 397 | Added on Thursday, October 18, 2018 3:56:37 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 395-397 | Added on Thursday, October 18, 2018 3:56:37 PM
+
+Treating objects as service providers is useful not only during the design process, but also when someone else is trying to understand your code or reuse an object. If they can see the value of the object based on what service it provides, it makes it much easier to fit it into the design.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 428 | Added on Thursday, October 18, 2018 4:03:14 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 428-428 | Added on Thursday, October 18, 2018 4:03:14 PM
+
+Once a class is tested, it should (ideally) represent a useful unit of code.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 429 | Added on Thursday, October 18, 2018 4:03:50 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 429-429 | Added on Thursday, October 18, 2018 4:03:50 PM
+
+it takes experience and insight to produce a reusable object design.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 431 | Added on Thursday, October 18, 2018 4:04:15 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 430-431 | Added on Thursday, October 18, 2018 4:04:15 PM
+
+The simplest way to reuse a class is to use an object of that class directly, but you can also place an object of that class inside a new class.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 432 | Added on Thursday, October 18, 2018 4:04:38 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 437 | Added on Thursday, October 18, 2018 4:05:13 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 437-437 | Added on Thursday, October 18, 2018 4:05:13 PM
+
+Composition comes with a great deal of flexibility.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 451 | Added on Thursday, October 18, 2018 4:10:41 PM
+
+OOP
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 447-451 | Added on Thursday, October 18, 2018 4:10:41 PM
+
+It seems a pity, however, to go to all the trouble to create a class, then be forced to create a brand new one that might have similar functionality. It’s nicer if we can take the existing class, clone it, then make additions and modifications to the clone. This is effectively what you get with inheritance, with the exception that if the original class (called the base class or superclass or parent class) is changed, the modified “clone” (called the derived class or inherited class or subclass or child class) also reflects those changes.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 537 | Added on Thursday, October 18, 2018 4:37:36 PM
+
+Ntk(nice to know)
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 536-537 | Added on Thursday, October 18, 2018 4:37:36 PM
+
+object-oriented languages use the concept of late binding. When you send a message to an object, the code called isn’t determined until run time. The
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 540 | Added on Thursday, October 18, 2018 4:38:01 PM
+
+Ntk
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 539-540 | Added on Thursday, October 18, 2018 4:38:01 PM
+
+To perform late binding, Java uses a special bit of code in lieu of the absolute call. This code calculates the address of the method body, using information stored in the object
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 600 | Added on Thursday, October 18, 2018 4:40:23 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 597-600 | Added on Thursday, October 18, 2018 4:40:23 PM
+
+A singly rooted hierarchy makes it much easier to implement a garbage collector, one of the fundamental improvements of Java over C++. And since information about the type of an object is guaranteed to be in all objects, you’ll never end up with an object whose type you cannot determine. This is especially important with system-level operations, such as exception handling (a language mechanism for reporting errors), and to allow greater flexibility in programming.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 602 | Added on Thursday, October 18, 2018 4:44:07 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 601-602 | Added on Thursday, October 18, 2018 4:44:07 PM
+
+In general, you don’t know how many objects you need to solve a particular problem, or how long they will last.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 602 | Added on Thursday, October 18, 2018 4:45:41 PM
+
+OOD
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 605 | Added on Thursday, October 18, 2018 4:46:29 PM
+
+OOD:Coll
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 604-605 | Added on Thursday, October 18, 2018 4:46:29 PM
+
+You create another type of object. The new type of object that solves this particular problem holds references to other objects.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 656 | Added on Thursday, October 18, 2018 4:57:41 PM
+
+OOD
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 655-656 | Added on Thursday, October 18, 2018 4:57:41 PM
+
+Each object requires resources, most notably memory, to exist. When an object is no longer needed it must be cleaned up so these resources are released for reuse.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 688 | Added on Thursday, October 18, 2018 5:01:30 PM
+
+Java
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 687-688 | Added on Thursday, October 18, 2018 5:01:30 PM
+
+Java is built upon a garbage collector which automatically discovers when an object is no longer in use and releases it.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 692 | Added on Thursday, October 18, 2018 5:01:41 PM
+
+Java
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 702 | Added on Thursday, October 18, 2018 5:03:29 PM
+
+Java:exceptons handl
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 701-702 | Added on Thursday, October 18, 2018 5:03:29 PM
+
+An exception is an object that is “thrown” from the site of the error and can be “caught” by an appropriate exception handler designed for that particular type of error.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 703 | Added on Thursday, October 18, 2018 5:04:05 PM
+
+Java:exceptons hand
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 702-703 | Added on Thursday, October 18, 2018 5:04:05 PM
+
+It’s as if exception handling is a different, parallel path of execution, taken when things go wrong. Because it uses a separate execution path, it doesn’t interfere with your normally executing code.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 707 | Added on Thursday, October 18, 2018 5:05:13 PM
+
+Java:exceptions  handl
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 706-707 | Added on Thursday, October 18, 2018 5:05:13 PM
+
+exceptions provide a way to reliably recover from a bad situation. Instead of just exiting the program, you are sometimes able to set things right and restore execution, which produces more robust programs.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 712 | Added on Thursday, October 18, 2018 5:05:45 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 710-712 | Added on Thursday, October 18, 2018 5:05:45 PM
+
+It’s worth noting that exception handling isn’t an object-oriented feature, although in object-oriented languages the exception is normally represented by an object. Exception handling existed before object-oriented languages.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 925 | Added on Friday, October 19, 2018 9:34:53 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 919-925 | Added on Friday, October 19, 2018 9:34:53 PM
+
+Non-RAM storage. If data lives completely outside a program, it can exist while the program is not running, outside the control of the program. The two primary examples of this are serialized objects, where objects are turned into streams of bytes, generally sent to another machine, and persistent objects, where the objects are placed on disk so they will hold their state even when the program is terminated. The trick with these types of storage is turning the objects into something that exist on the other medium, and yet be resurrected into a regular RAM-based object when necessary. Java provides support for lightweight persistence. Libraries such as JDBC and Hibernate provide more sophisticated support for storing and retrieving object information using databases.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 996 | Added on Friday, October 19, 2018 9:52:03 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 994-996 | Added on Friday, October 19, 2018 9:52:03 PM
+
+When you create an array of objects, you are really creating an array of references, and each of those references is automatically initialized to a special value with its own keyword: null. When Java sees null, it recognizes that the reference in question isn’t pointing to an object.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 1341 | Added on Friday, October 19, 2018 10:07:25 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 1341-1341 | Added on Friday, October 19, 2018 10:07:26 PM
+
+Coding Style
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 4945-4946 | Added on Friday, October 19, 2018 10:14:11 PM
+
+have as many supporting package-access
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 5041-5042 | Added on Friday, October 19, 2018 10:15:03 PM
+
+However, people often refer to implementation hiding alone as
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 1666 | Added on Friday, October 19, 2018 10:15:56 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 2218-2219 | Added on Friday, October 19, 2018 10:19:40 PM
+
+larger values in integers on the first machine. As you might imagine, portability is a huge headache for
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 3109 | Added on Friday, October 19, 2018 10:22:35 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 3689 | Added on Friday, October 19, 2018 10:25:23 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 3689-3689 | Added on Friday, October 19, 2018 10:25:23 PM
+
+System.gc() is used to force finalization.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 3862 | Added on Saturday, October 20, 2018 11:59:17 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 3951-3953 | Added on Saturday, October 20, 2018 12:00:30 PM
+
+f3(1) */ Bowl shows the creation of a class, and Table
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 4632 | Added on Saturday, October 20, 2018 12:08:13 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 4632-4632 | Added on Saturday, October 20, 2018 12:08:13 PM
+
+The CLASSPATH can contain many alternative search paths.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 4594 | Added on Saturday, October 20, 2018 12:13:10 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 4592-4595 | Added on Saturday, October 20, 2018 12:13:10 PM
+
+Collecting the package files into a single subdirectory solves two other problems: creating unique package names, and finding those classes that might be buried in a directory structure someplace. This is accomplished by encoding the path of the location of the .class file into the name of the package.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 4596-4596 | Added on Saturday, October 20, 2018 12:13:50 PM
+
+the class. Since Internet domain names are unique, if
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 4603 | Added on Saturday, October 20, 2018 12:16:43 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 4600-4603 | Added on Saturday, October 20, 2018 12:16:43 PM
+
+so when the Java interpreter must load a .class file, it can locate the directory where that .class file resides. First, it finds the environment variable CLASSPATH2 (set via the operating system, and sometimes by the installation program that installs Java or a Java-based tool on your machine).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 4646 | Added on Saturday, October 20, 2018 3:16:45 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 4644-4646 | Added on Saturday, October 20, 2018 3:16:45 PM
+
+When the compiler encounters the import statement for the simple library, it begins searching at the directories specified by CLASSPATH,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 9118 | Added on Saturday, October 20, 2018 3:48:00 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 9116-9118 | Added on Saturday, October 20, 2018 3:48:00 PM
+
+characteristics—Set, for example, holds only one object of each value, and Map is an associative array that lets you associate objects with other objects—the Java collection classes will automatically resize themselves. So,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10211 | Added on Sunday, October 21, 2018 2:06:34 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10206-10211 | Added on Sunday, October 21, 2018 2:06:34 PM
+
+When you offer() an object onto a PriorityQueue, that object is sorted into the queue.5 The default sorting uses the natural order of the objects in the queue, but you can modify the order by providing your own Comparator. The PriorityQueue ensures that when you call peek(), poll() or remove(), the element you get is the one with the highest priority.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10278 | Added on Sunday, October 21, 2018 2:09:01 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10277-10278 | Added on Sunday, October 21, 2018 2:09:01 PM
+
+However, the two approaches are bound together, since implementing Collection also means providing an iterator() method:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10733-10734 | Added on Sunday, October 21, 2018 2:12:43 PM
+
+would never produce! Often, just to fit a program into limited memory, programmers
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10747 | Added on Sunday, October 21, 2018 7:40:55 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10745-10747 | Added on Sunday, October 21, 2018 7:40:55 PM
+
+This is what functional programming (FP) is about. By incorporating existing code to produce new functionality instead of writing everything from scratch, you get more reliable code, faster. This theory seems to hold up, at least in some situations.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10749 | Added on Sunday, October 21, 2018 7:41:09 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10747-10749 | Added on Sunday, October 21, 2018 7:41:09 PM
+
+the way, functional languages have produced nice syntax which some non-functional languages have appropriated. You can also think of it this way: OO abstracts data, FP abstracts behavior.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10750 | Added on Sunday, October 21, 2018 7:41:43 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10749-10750 | Added on Sunday, October 21, 2018 7:41:43 PM
+
+A pure functional language goes further in its endeavor for safety. It imposes the additional constraint that all data must be immutable: set once and never changed.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10756 | Added on Sunday, October 21, 2018 7:42:59 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10753-10756 | Added on Sunday, October 21, 2018 7:42:59 PM
+
+the “immutable objects and no side effects” paradigm solves one of the most fundamental and vexing problems in parallel programming (when parts of your program are running simultaneously on multiple processors). This is the problem of mutable shared state, which means different parts of your code (running on different processors) can try to modify the same piece of memory at the same time
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10827 | Added on Sunday, October 21, 2018 7:46:06 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10826-10827 | Added on Sunday, October 21, 2018 7:46:06 PM
+
+Lambda Expressions are function definitions written using the minimum possible syntax:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10877 | Added on Sunday, October 21, 2018 8:14:51 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10876-10877 | Added on Sunday, October 21, 2018 8:14:51 PM
+
+Lambda expressions typically produce more readable code than anonymous inner classes, so we’ll use them when possible in this book.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10930 | Added on Sunday, October 21, 2018 8:18:23 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10928-10930 | Added on Sunday, October 21, 2018 8:18:23 PM
+
+A method reference is a class name or an object name, followed by a ::4, then the name of the method:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 10959 | Added on Sunday, October 21, 2018 8:18:43 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 10954-10960 | Added on Sunday, October 21, 2018 8:18:43 PM
+
+    c = MethodReferences::hello; // [8]     c.call("Bob");     c = new Description("valuable")::help; // [9]     c.call("information");     c = Helper::assist; // [10]     c.call("Help!");
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11026 | Added on Sunday, October 21, 2018 8:21:56 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11026-11026 | Added on Sunday, October 21, 2018 8:21:56 PM
+
+So far, we’ve seen references to methods that have the same signature as their associated interface.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11100 | Added on Monday, October 22, 2018 1:36:38 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11097-11100 | Added on Monday, October 22, 2018 1:36:38 PM
+
+We see that the return type must be a String, but what type is x? Because lambda expressions include a form of type inference (the compiler figures some things out about types instead of requiring the programmer to be explicit), the compiler must somehow be able to deduce the type of x.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11109 | Added on Monday, October 22, 2018 1:36:54 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11107-11109 | Added on Monday, October 22, 2018 1:36:54 PM
+
+To solve this problem, Java 8 introduces java.util.function containing a set of interfaces which are target types for lambda expressions and method references. Each interface contains only one abstract method, called the functional method.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11111 | Added on Monday, October 22, 2018 1:37:14 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11110-11111 | Added on Monday, October 22, 2018 1:37:14 PM
+
+This “functional method” pattern can be enforced by using the @FunctionalInterface annotation when you write interfaces:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11140 | Added on Monday, October 22, 2018 1:38:52 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11669 | Added on Monday, October 22, 2018 2:43:00 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11669-11670 | Added on Monday, October 22, 2018 2:43:00 PM
+
+    f4 = f1.compose(f2).andThen(f3);
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11677 | Added on Monday, October 22, 2018 2:43:43 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11677-11677 | Added on Monday, October 22, 2018 2:43:43 PM
+
+creating a new function f4, which can then be called using apply()
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11695 | Added on Monday, October 22, 2018 2:44:53 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11685-11696 | Added on Monday, October 22, 2018 2:44:53 PM
+
+  static Predicate<String>     p1 = s -> s.contains("bar"),     p2 = s -> s.length() < 5,     p3 = s -> s.contains("foo"),     p4 = p1.negate().and(p2).or(p3);   public static void main(String[] args) {     Stream.of("bar", "foobar", "foobaz", "fongopuckey")       .filter(p4)       .forEach(System.out::println);
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11711 | Added on Monday, October 22, 2018 2:47:45 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11710-11711 | Added on Monday, October 22, 2018 2:47:45 PM
+
+Currying means starting with a function that takes multiple arguments and turning it into a sequence of functions, each of which only takes a single argument.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11768 | Added on Monday, October 22, 2018 2:51:26 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11765-11768 | Added on Monday, October 22, 2018 2:51:26 PM
+
+you must carefully make everything final and ensure that all your methods and functions have no side effects. Because Java is by nature not an immutable language, you don’t get any help from the compiler if you make a mistake. There are third-party tools to help you9,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11772 | Added on Monday, October 22, 2018 2:53:11 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11770-11772 | Added on Monday, October 22, 2018 2:53:11 PM
+
+Although you’ll see in the Concurrent Programming chapter that Java does support parallelism, if that is a core part of your project you might consider using something like Scala or Clojure for at least part of the project.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11791 | Added on Monday, October 22, 2018 2:59:59 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11791-11791 | Added on Monday, October 22, 2018 2:59:59 PM
+
+when you’ll understand that mutating shared variables is “not thread-safe.”↩
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11799 | Added on Monday, October 22, 2018 3:02:58 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11798-11800 | Added on Monday, October 22, 2018 3:02:58 PM
+
+Collections optimize the storage of objects. Streams are about processing groups of objects.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11801 | Added on Monday, October 22, 2018 3:03:19 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11801-11801 | Added on Monday, October 22, 2018 3:03:19 PM
+
+we say that streams have “no storage.”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11805 | Added on Monday, October 22, 2018 3:06:00 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11804-11805 | Added on Monday, October 22, 2018 3:06:00 PM
+
+One of the core benefits of streams is that they make your programs smaller and easier to understand.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11868 | Added on Monday, October 22, 2018 3:09:26 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11867-11868 | Added on Monday, October 22, 2018 3:09:26 PM
+
+There are three types of operations: creating streams, modifying elements of a stream (intermediate operations), and consuming stream elements (terminal operations).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12008 | Added on Monday, October 22, 2018 3:14:39 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12008-12009 | Added on Monday, October 22, 2018 3:14:39 PM
+
+We use the Files class to read all the lines from a file into a List<String>:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 11937 | Added on Monday, October 22, 2018 3:14:56 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 11936-11937 | Added on Monday, October 22, 2018 3:14:57 PM
+
+The Random class has been enhanced with a set of methods to produce streams:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12053 | Added on Monday, October 22, 2018 3:16:50 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12051-12053 | Added on Monday, October 22, 2018 3:16:50 PM
+
+The IntStream class provides a range() method to produce a stream that is a sequence of ints. This can be convenient when writing loops:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12154 | Added on Monday, October 22, 2018 3:20:25 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12151-12154 | Added on Monday, October 22, 2018 3:20:25 PM
+
+    Stream.generate(Bubble::bubbler)       .limit(5)       .forEach(System.out::println);   }
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12162 | Added on Monday, October 22, 2018 3:21:31 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12160-12162 | Added on Monday, October 22, 2018 3:21:31 PM
+
+Stream.iterate() starts with a seed (the first argument) and passes it to the method (the second argument). The result is added to the stream and also stored for use as the first argument the next time iterate() is called, and so on.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12218 | Added on Monday, October 22, 2018 3:24:09 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12217-12218 | Added on Monday, October 22, 2018 3:24:09 PM
+
+The Arrays class contains static methods named stream() that convert arrays to streams.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12312 | Added on Monday, October 22, 2018 3:28:45 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12311-12312 | Added on Monday, October 22, 2018 3:28:45 PM
+
+The peek() operation is intended as an aid to debugging. It allows you to view stream objects without modifying them:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12652 | Added on Monday, October 22, 2018 9:11:57 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12650-12652 | Added on Monday, October 22, 2018 9:11:57 PM
+
+There are a number of convenience functions for unpacking Optionals, which simplify the above process of “checking and doing something with the contained object”:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 12955 | Added on Tuesday, October 23, 2018 4:15:10 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 12932-12955 | Added on Tuesday, October 23, 2018 4:15:10 PM
+
+public class Signal {   private final String msg;   public Signal(String msg) { this.msg = msg; }   public String getMsg() { return msg; }   @Override   public String toString() {     return "Signal(" + msg + ")";   }   static Random rand = new Random(47);   public static Signal morse() {     switch(rand.nextInt(4)) {       case 1: return new Signal("dot");       case 2: return new Signal("dash");       default: return null;     }   }   public static Stream<Optional<Signal>> stream() {     return Stream.generate(Signal::morse)       .map(signal -> Optional.ofNullable(signal));   } } When you use this stream, you’ll have to figure out how you want to unpack the Optionals:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 13393 | Added on Tuesday, October 23, 2018 4:20:12 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 13388-13393 | Added on Tuesday, October 23, 2018 4:20:12 PM
+
+When you throw an exception, several things happen. First, the exception object is created in the same way as any Java object: on the heap, with new. Then the current path of execution (the one you can’t continue) is stopped and the reference for the exception object is ejected from the current context. Now the exception-handling mechanism takes over and begins to look for an appropriate place to continue executing the program. This appropriate place is the exception handler, whose job is to recover from the problem so the program can either try another tack or just continue.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 13420 | Added on Tuesday, October 23, 2018 4:24:10 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 13416-13420 | Added on Tuesday, October 23, 2018 4:24:10 PM
+
+you give the resulting reference to throw. The object is, in effect, “returned” from the method, even though that object type isn’t normally what the method is designed to return. A simplistic way to think about exception handling is as a different kind of return mechanism, although you’ll have trouble if you take that analogy too far. You can also exit from ordinary scopes by throwing an exception. In either case, an exception object is returned, and the method or scope exits.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 13428 | Added on Tuesday, October 23, 2018 5:52:37 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 13427-13428 | Added on Tuesday, October 23, 2018 5:52:37 PM
+
+To see how an exception is caught, you must first understand the concept of a guarded region.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 13433 | Added on Tuesday, October 23, 2018 5:53:44 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 13432-13433 | Added on Tuesday, October 23, 2018 5:53:44 PM
+
+This is called the try block because you “try” your various method calls there. The try block is an ordinary scope preceded by the keyword try:
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 13452 | Added on Tuesday, October 23, 2018 5:55:27 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 13452-13452 | Added on Tuesday, October 23, 2018 5:55:28 PM
+
+the exception-handling mechanism goes hunting for the first handler with an argument that matches the type of the exception.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14485-14485 | Added on Wednesday, October 24, 2018 10:18:50 AM
+
+you’re finished with the InputFile object. You might
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14514-14515 | Added on Wednesday, October 24, 2018 10:19:52 AM
+
+not executed if construction fails, and it is always executed if construction succeeds.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 14580 | Added on Wednesday, October 24, 2018 10:22:02 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14579-14581 | Added on Wednesday, October 24, 2018 10:22:02 AM
+
+A better design for InputFile.java is if the constructor reads the file and buffers it internally—that way, the opening, reading, and closing of the file all happen in the constructor.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 14639 | Added on Wednesday, October 24, 2018 10:27:54 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14638-14639 | Added on Wednesday, October 24, 2018 10:27:54 AM
+
+The objects created in the try-with-resources definition clause (within the parentheses) must implement the java.lang.AutoCloseable interface, which has a single method, close().
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 14657 | Added on Wednesday, October 24, 2018 10:28:22 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14656-14657 | Added on Wednesday, October 24, 2018 10:28:22 AM
+
+the resource specification header can contain multiple definitions, separated by semicolons (the final semicolon is accepted but optional).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 14686 | Added on Wednesday, October 24, 2018 10:29:28 AM
+
+Mes
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14685-14686 | Added on Wednesday, October 24, 2018 10:29:29 AM
+
+Exiting the try block calls close() for both objects and it closes them in reverse order of creation.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 14829 | Added on Wednesday, October 24, 2018 10:34:13 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14827-14829 | Added on Wednesday, October 24, 2018 10:34:13 AM
+
+The reason exception-handling systems were developed is because the approach of dealing with each possible error condition produced by each function call was too onerous, and programmers simply weren’t doing it. As a result, they were ignoring the errors.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 14833 | Added on Wednesday, October 24, 2018 10:35:06 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 14830-14833 | Added on Wednesday, October 24, 2018 10:35:07 AM
+
+One of the important guidelines in exception handling is “Don’t catch an exception unless you know what to do with it.” In fact, one of the important goals of exception handling is to move the error-handling code away from the point where the errors occur. This focuses on your objective in one section of your code, and how you’re going to deal with problems in a distinct separate section of your code. As
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15039 | Added on Thursday, October 25, 2018 9:30:41 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15037-15039 | Added on Thursday, October 25, 2018 9:30:42 AM
+
+I have come to wonder how often the “recovery” aspect is implemented, or even possible. My perception is it is less than 10 percent of the time, and even then it probably amounts to unwinding the stack to a known stable state rather than actually performing any kind of resumptive behavior.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15037 | Added on Thursday, October 25, 2018 9:31:30 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15037-15037 | Added on Thursday, October 25, 2018 9:31:30 AM
+
+exceptions are generally explained as tools that allow you to report and recover from errors at run time,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15041 | Added on Thursday, October 25, 2018 9:31:50 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15040-15041 | Added on Thursday, October 25, 2018 9:31:51 AM
+
+Whether or not this is true, I have come to believe that the “reporting” function is where the essential value of exceptions lie. The fact that Java effectively insists that all errors be reported in the form of exceptions gives it a great advantage over languages like C++,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15112 | Added on Thursday, October 25, 2018 10:11:42 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15111-15112 | Added on Thursday, October 25, 2018 10:11:42 PM
+
+If it’s not tested, it’s broken.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15114 | Added on Thursday, October 25, 2018 10:15:04 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15114-15114 | Added on Thursday, October 25, 2018 10:15:04 PM
+
+“if the compiler accepts it, it’s OK.” But static type checking is a very limited form of testing.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15117 | Added on Thursday, October 25, 2018 10:15:34 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15115-15117 | Added on Thursday, October 25, 2018 10:15:34 PM
+
+As you gain more programming experience, you’ll come to understand that your code almost never satisfies those goals. The first step towards code validation is creating tests that check the code behavior against your goals.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15299 | Added on Thursday, October 25, 2018 10:22:12 PM
+
+Mes
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15298-15299 | Added on Thursday, October 25, 2018 10:22:12 PM
+
+Assertions increase program robustness by verifying that certain conditions are satisfied during the execution of your program.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15299 | Added on Thursday, October 25, 2018 10:22:35 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 15847 | Added on Thursday, October 25, 2018 10:28:59 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 15846-15847 | Added on Thursday, October 25, 2018 10:28:59 PM
+
+we want to test multiple versions of the StringInverter implementation. To achieve this, we exploit one of the most sophisticated new features in JUnit5: dynamic test generation.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16058 | Added on Thursday, October 25, 2018 10:31:05 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16058-16058 | Added on Thursday, October 25, 2018 10:31:05 PM
+
+Logging reports information about a running program.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16220 | Added on Thursday, October 25, 2018 10:33:19 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16218-16220 | Added on Thursday, October 25, 2018 10:33:19 PM
+
+“We should forget about small efficiencies, say about 97% of the time: Premature optimization is the root of all evil.”—Donald Knuth
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16317 | Added on Thursday, October 25, 2018 10:34:55 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16315-16317 | Added on Thursday, October 25, 2018 10:34:55 PM
+
+At this writing, the only microbenchmark system for Java that produces decent results is The Java Microbenchmarking Harness JMH. This book’s build.gradle automates JMH setup so you can use it easily.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16321 | Added on Thursday, October 25, 2018 10:35:52 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16320-16321 | Added on Thursday, October 25, 2018 10:35:52 PM
+
+The only annotations necessary here are @State and @Benchmark. The
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16347 | Added on Thursday, October 25, 2018 10:36:52 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16345-16347 | Added on Thursday, October 25, 2018 10:36:52 PM
+
+commenting out the @Warmup, @Measurement and @Fork annotations to see the default values and whether the tests show any noticeable variation; normally you should only see the error factors
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16368 | Added on Thursday, October 25, 2018 10:37:31 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16367-16368 | Added on Thursday, October 25, 2018 10:37:31 PM
+
+Even for a sophisticated benchmarking tool like JMH, the process of benchmarking is nontrivial and you must exercise care.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16485 | Added on Thursday, October 25, 2018 10:38:59 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16485-16486 | Added on Thursday, October 25, 2018 10:38:59 PM
+
+A profiler finds the slow spots so you can look for the easiest, most obvious way to speed things up.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16488 | Added on Thursday, October 25, 2018 10:39:17 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16487-16488 | Added on Thursday, October 25, 2018 10:39:17 PM
+
+A profiler is also useful for detecting thread deadlock in your program.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16513 | Added on Thursday, October 25, 2018 10:40:22 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16510-16513 | Added on Thursday, October 25, 2018 10:40:22 PM
+
+A popular style checker is Checkstyle. Look at the gradle.build and checkstyle.xml files in the book’s Example Code to see one way to configure Checkstyle. checkstyle.xml is a set of common checks, with some of those checks commented out to allow for the style used in this book.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16551 | Added on Thursday, October 25, 2018 10:41:20 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16550-16551 | Added on Thursday, October 25, 2018 10:41:20 PM
+
+Technical debt is all those quick-and-dirty solutions that accumulate in your software and make the design impossible to understand and the code unreadable.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 16553 | Added on Thursday, October 25, 2018 10:41:42 PM
+
+Prog
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 16552-16554 | Added on Thursday, October 25, 2018 10:41:42 PM
+
+Refactoring is the antidote to technical debt. The key to refactoring is that it improves the code design, structure and readability (thus reducing technical debt), but it doesn’t change the behavior of the code.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17324 | Added on Thursday, October 25, 2018 10:45:21 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 17323-17324 | Added on Thursday, October 25, 2018 10:45:21 PM
+
+Objects of the String class are immutable.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17380 | Added on Friday, October 26, 2018 11:30:10 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 17378-17380 | Added on Friday, October 26, 2018 11:30:10 AM
+
+To see what really happens, you can decompile the above code using the javap tool that comes as part of the JDK. Here’s the command line: javap -c Concatenation The -c flag will produce the JVM bytecodes.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17460 | Added on Friday, October 26, 2018 11:36:26 AM
+
+.e
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 17458-17461 | Added on Friday, October 26, 2018 11:36:26 AM
+
+Notice that the StringBuilder construction happens inside this loop, which means you’re going to get a new StringBuilder object every time you pass through the loop. Here are the bytecodes for explicit():
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17460 | Added on Friday, October 26, 2018 11:36:39 AM
+
+me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17460 | Added on Friday, October 26, 2018 11:36:45 AM
+
+me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17460 | Added on Friday, October 26, 2018 11:36:55 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17487 | Added on Friday, October 26, 2018 11:37:49 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 17485-17487 | Added on Friday, October 26, 2018 11:37:49 AM
+
+Not only is the loop code shorter and simpler, the method only creates a single StringBuilder object. With an explicit StringBuilder, you can preallocate its size if you know how big it might be, so it doesn’t constantly reallocate the buffer.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17523 | Added on Friday, October 26, 2018 11:38:35 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 17521-17523 | Added on Friday, October 26, 2018 11:38:35 AM
+
+If you try to take shortcuts and do something like append(a + ": " + c), the compiler will jump in and start making more StringBuilder objects again.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 17532 | Added on Friday, October 26, 2018 11:39:02 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 17531-17532 | Added on Friday, October 26, 2018 11:39:02 AM
+
+Java used StringBuffer, which ensured thread safety (see the Concurrent Programming chapter) and so was significantly more expensive.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18842 | Added on Saturday, October 27, 2018 12:13:38 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18839-18842 | Added on Saturday, October 27, 2018 12:13:38 AM
+
+Technically, the Stream<Shape> is actually holding everything as an Object. When an element emerges, it is automatically cast back to a Shape. This is the most basic form of RTTI, because all casts are checked at run time for correctness. That’s what RTTI means: At run time, the type of an object is identified.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18859 | Added on Saturday, October 27, 2018 12:15:03 AM
+
+Ms
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18859-18860 | Added on Saturday, October 27, 2018 12:15:03 AM
+
+This is accomplished through a special kind of object called the Class object, which contains information about the class.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18859 | Added on Saturday, October 27, 2018 12:15:11 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18861 | Added on Saturday, October 27, 2018 12:15:47 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18860-18861 | Added on Saturday, October 27, 2018 12:15:47 AM
+
+Java performs its RTTI using the Class object, even if you’re doing something like a cast.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18864 | Added on Saturday, October 27, 2018 12:16:46 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18862-18865 | Added on Saturday, October 27, 2018 12:16:46 AM
+
+There’s one Class object for each class that is part of your program. That is, each time you write and compile a new class, a single Class object is also created (and stored, appropriately enough, in an identically named .class file).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18865 | Added on Saturday, October 27, 2018 12:17:30 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18865-18866 | Added on Saturday, October 27, 2018 12:17:30 AM
+
+To make an object of that class, the Java Virtual Machine (JVM) that’s executing your program uses a subsystem called a class loader.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18875 | Added on Saturday, October 27, 2018 12:18:33 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18874-18875 | Added on Saturday, October 27, 2018 12:18:33 AM
+
+Thus, a Java program isn’t completely loaded before it begins, but instead pieces of it are loaded when necessary.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 18879 | Added on Saturday, October 27, 2018 12:19:39 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 18876-18880 | Added on Saturday, October 27, 2018 12:19:39 AM
+
+The class loader first checks to see if the Class object for that type is loaded. If not, the default class loader finds the .class file with that name (an add-on class loader might, for example, look for the bytecodes in a database instead). As the bytes for the class are loaded, they are verified to ensure they have not been corrupted and they do not comprise bad Java code (this is one of the lines of defense for security in Java).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 19008 | Added on Saturday, October 27, 2018 12:25:01 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 19007-19009 | Added on Saturday, October 27, 2018 12:25:01 AM
+
+a second way to produce the reference to the Class object: the class literal. In the preceding program this would look like: FancyToy.class;
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 23390 | Added on Saturday, October 27, 2018 12:43:29 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 23387-23390 | Added on Saturday, October 27, 2018 12:43:29 AM
+
+One value of mixins is they consistently apply characteristics and behaviors across multiple classes. As a bonus, if you change something in a mixin class, those changes are applied across all the classes where the mixin is used. Because of this, mixins have part of the flavor of aspect-oriented programming (AOP), and aspects are often suggested to solve the mixin problem.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 23386 | Added on Saturday, October 27, 2018 12:45:09 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 23386-23386 | Added on Saturday, October 27, 2018 12:45:09 AM
+
+mixing capabilities from multiple classes to produce a resulting class that represents all the types of the mixins.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 23540 | Added on Saturday, October 27, 2018 12:47:59 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 23539-23540 | Added on Saturday, October 27, 2018 12:47:59 AM
+
+a significant drawback to Decorator is it only effectively works with one layer of decoration (the final one), and the mixin approach is arguably more natural.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 23596-23596 | Added on Saturday, October 27, 2018 12:48:38 AM
+
+the Jam language, specifically for supporting mixins.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 23596 | Added on Saturday, October 27, 2018 12:49:02 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 23595-23596 | Added on Saturday, October 27, 2018 12:49:02 AM
+
+one language add-on, the Jam language, specifically for supporting mixins.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 20728 | Added on Saturday, October 27, 2018 2:45:10 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 20727-20728 | Added on Saturday, October 27, 2018 2:45:10 PM
+
+Tuples can typically be any length, and each object in the tuple can be of a different type.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 20729 | Added on Saturday, October 27, 2018 2:45:29 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 20728-20729 | Added on Saturday, October 27, 2018 2:45:29 PM
+
+when the recipient reads the value, they get the right type.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 20816 | Added on Saturday, October 27, 2018 2:49:42 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 20815-20816 | Added on Saturday, October 27, 2018 2:49:42 PM
+
+With generics, you can easily create any tuple to return any group of types, just by writing the expression.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 21055 | Added on Saturday, October 27, 2018 2:51:22 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 21053-21055 | Added on Saturday, October 27, 2018 2:51:22 PM
+
+With a generic class, you must specify the type parameters when you instantiate the class. With a generic method, you don’t usually specify the parameter types, because the compiler figures that out for you. This is called type argument inference.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 21476-21476 | Added on Saturday, October 27, 2018 2:53:21 PM
+
+example that adds to this puzzle: // generics/LostInformation.java
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 24192 | Added on Saturday, October 27, 2018 2:58:36 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 24189-24192 | Added on Saturday, October 27, 2018 2:58:36 PM
+
+As Java Collections and Streams have added more high-level capabilities, the need to use arrays in day-to-day programming has diminished, so you can safely skim or even skip this chapter for the time being. Ultimately, however, there will come a time when—even if you avoid using arrays yourself—you will need to read and understand someone else’s array code.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 25795 | Added on Saturday, October 27, 2018 3:01:09 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 25793-25795 | Added on Saturday, October 27, 2018 3:01:09 PM
+
+And until you understand all the issues quite deeply, it could very well seem like parallel programming is more art than science. Here’s the short version: Write code the easy and simple way. Don’t start wrestling with parallelism unless it becomes a problem. You’ll still encounter parallelism.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 25802 | Added on Saturday, October 27, 2018 3:02:09 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 25801-25802 | Added on Saturday, October 27, 2018 3:02:09 PM
+
+It’s probably best to think about parallelism in terms of data. For a lot of data (and with extra processors available), parallel might help. But it might not, and you could also make things worse.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 25831 | Added on Saturday, October 27, 2018 3:04:10 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 25830-25831 | Added on Saturday, October 27, 2018 3:04:10 PM
+
+Streams actually work up to nearly ten million, but then starts running out of heap space.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 25833 | Added on Saturday, October 27, 2018 3:04:40 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 25832-25833 | Added on Saturday, October 27, 2018 3:04:40 PM
+
+We can initialize bigger arrays using setAll(). If speed becomes an issue, Arrays.parallelSetAll() will (probably) perform the initialization faster
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 25842 | Added on Saturday, October 27, 2018 3:05:14 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 25842-25843 | Added on Saturday, October 27, 2018 3:05:14 PM
+
+    Arrays.parallelSetAll(ia, new Rand.Pint()::get);
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26087-26087 | Added on Saturday, October 27, 2018 3:08:08 PM
+
+the current object is greater than the argument.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26391-26393 | Added on Saturday, October 27, 2018 3:09:18 PM
+
+Collection support improved significantly, and now Collections tend to outshine arrays in all ways except for performance, and even then, the performance of Collections is significantly improved. As stated in other places in this book, performance
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 26393 | Added on Saturday, October 27, 2018 3:09:24 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 26757 | Added on Saturday, October 27, 2018 3:16:57 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26750-26757 | Added on Saturday, October 27, 2018 3:16:57 PM
+
+enum CartoonCharacter implements Supplier<CartoonCharacter> {   SLAPPY, SPANKY, PUNCHY,   SILLY, BOUNCY, NUTTY, BOB;   private Random rand =     new Random(47);   @Override   public CartoonCharacter get() {     return values()[rand.nextInt(values().length)];   } }
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 26835 | Added on Saturday, October 27, 2018 3:19:20 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26815-26836 | Added on Saturday, October 27, 2018 3:19:20 PM
+
+public interface Food {   enum Appetizer implements Food {     SALAD, SOUP, SPRING_ROLLS;   }   enum MainCourse implements Food {     LASAGNE, BURRITO, PAD_THAI,     LENTILS, HUMMOUS, VINDALOO;   }   enum Dessert implements Food {     TIRAMISU, GELATO, BLACK_FOREST_CAKE,     FRUIT, CREME_CARAMEL;   }   enum Coffee implements Food {     BLACK_COFFEE, DECAF_COFFEE, ESPRESSO,     LATTE, CAPPUCCINO, TEA, HERB_TEA;   } } Since the only subtyping available for an enum is that of interface implementation, each nested enum implements the surrounding interface Food. Now it’s possible to say that “everything is a type of Food” as shown here: // enums/menu/TypeOfFood.java // {java enums.menu.TypeOfFood} package enums.menu; import static enums.menu.Food.*; public class TypeOfFood {   public static void main(String[] args) {     Food food = Appetizer.SALAD;     food = MainCourse.LASAGNE;     food = Dessert.GELATO;     food = Coffee.CAPPUCCINO;   } } The upcast to Food works for each enum type that implements Food, so they are all types of Food.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26961-26961 | Added on Saturday, October 27, 2018 3:22:04 PM
+
+it’s easy to write confusing code. The
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 26964 | Added on Saturday, October 27, 2018 3:22:23 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26961-26964 | Added on Saturday, October 27, 2018 3:22:23 PM
+
+The EnumSet is designed for speed, because it must compete effectively with bit flags (operations are typically much faster than a HashSet). Internally, it is represented by (if possible) a single long that is treated as a bit-vector, so it’s extremely fast and efficient.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 26956 | Added on Saturday, October 27, 2018 3:27:12 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26955-26956 | Added on Saturday, October 27, 2018 3:27:12 PM
+
+Using EnumSet Instead of Flags
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 26984 | Added on Saturday, October 27, 2018 3:28:38 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 26977-26985 | Added on Saturday, October 27, 2018 3:28:39 PM
+
+    EnumSet<AlarmPoints> points =       EnumSet.noneOf(AlarmPoints.class); // Empty     points.add(BATHROOM);     System.out.println(points);     points.addAll(       EnumSet.of(STAIR1, STAIR2, KITCHEN));     System.out.println(points);     points = EnumSet.allOf(AlarmPoints.class);     points.removeAll(       EnumSet.of(STAIR1, STAIR2, KITCHEN));
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27057 | Added on Saturday, October 27, 2018 3:30:19 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27039-27057 | Added on Saturday, October 27, 2018 3:30:19 PM
+
+interface Command { void action(); } public class EnumMaps {   public static void main(String[] args) {     EnumMap<AlarmPoints,Command> em =       new EnumMap<>(AlarmPoints.class);     em.put(KITCHEN,       () -> System.out.println("Kitchen fire!"));     em.put(BATHROOM,       () -> System.out.println("Bathroom alert!"));     for(Map.Entry<AlarmPoints,Command> e:         em.entrySet()) {       System.out.print(e.getKey() + ": ");       e.getValue().action();     }     try { // If there's no value for a particular key:       em.get(UTILITY).action();     } catch(Exception e) {       System.out.println("Expected: " + e);     }   } }
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27068 | Added on Saturday, October 27, 2018 3:31:09 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27066-27068 | Added on Saturday, October 27, 2018 3:31:09 PM
+
+As you’ll see later in the chapter, EnumMaps can perform multiple dispatching for situations where you have multiple types of enums interacting with each other.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27095 | Added on Saturday, October 27, 2018 3:32:29 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27094-27095 | Added on Saturday, October 27, 2018 3:32:29 PM
+
+You can look up and call methods via their associated enum instance. This is often called table-driven code (and note the similarity to the aforementioned Command pattern).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27090 | Added on Saturday, October 27, 2018 3:33:22 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27074-27090 | Added on Saturday, October 27, 2018 3:33:22 PM
+
+public enum ConstantSpecificMethod {   DATE_TIME {     @Override     String getInfo() {       return         DateFormat.getDateInstance()           .format(new Date());     }   },   CLASSPATH {     @Override     String getInfo() {       return System.getenv("CLASSPATH");     }   },   VERSION {     @Override     String getInfo() {       return System.getProperty("java.version");     }   };   abstract String getInfo();   public static void main(String[] args) {     for(ConstantSpecificMethod csm : values())       System.out.println(csm.getInfo());   } }
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27183 | Added on Saturday, October 27, 2018 3:36:09 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27155-27184 | Added on Saturday, October 27, 2018 3:36:09 PM
+
+    BLOWDRY {       @Override       void action() {         System.out.println("Blowing dry");       }     };     abstract void action();   }   EnumSet<Cycle> cycles =     EnumSet.of(Cycle.BASIC, Cycle.RINSE);   public void add(Cycle cycle) {     cycles.add(cycle);   }   public void washCar() {     for(Cycle c : cycles)       c.action();   }   @Override   public String toString() {     return cycles.toString();   }   public static void main(String[] args) {     CarWash wash = new CarWash();     System.out.println(wash);     wash.washCar();     // Order of addition is unimportant:     wash.add(Cycle.BLOWDRY);     wash.add(Cycle.BLOWDRY); // Duplicates ignored     wash.add(Cycle.RINSE);     wash.add(Cycle.HOTWAX);     System.out.println(wash);     wash.washCar();   } } /* Output: [BASIC, RINSE] The basic wash Rinsing [BASIC, HOTWAX, RINSE, BLOWDRY] The basic wash Applying hot wax Rinsing Blowing dry */
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27069 | Added on Saturday, October 27, 2018 3:37:25 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27069-27069 | Added on Saturday, October 27, 2018 3:37:25 PM
+
+Constant-Specific Methods
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27209 | Added on Saturday, October 27, 2018 3:38:35 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27206-27209 | Added on Saturday, October 27, 2018 3:38:35 PM
+
+Chain of Responsibility with enums In the Chain of Responsibility design pattern, you create a number of different ways to solve a problem and chain them together. When a request occurs, it is passed along the chain until one of the solutions can handle the request.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27360 | Added on Saturday, October 27, 2018 3:42:17 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27358-27360 | Added on Saturday, October 27, 2018 3:42:17 PM
+
+The Chain of Responsibility is expressed in enum MailHandler, and the order of the enum definitions determines the order in which the strategies are attempted on each piece of mail. Each strategy is tried in turn until one succeeds or they all fail, in which case you have a dead letter.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27362 | Added on Saturday, October 27, 2018 3:42:41 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27360-27362 | Added on Saturday, October 27, 2018 3:42:42 PM
+
+State Machines with enums Enumerated types can be ideal for creating state
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27740-27741 | Added on Saturday, October 27, 2018 3:47:00 PM
+
+a perfect solution for setting up multiple dispatching. But even though they can be given
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 27923 | Added on Saturday, October 27, 2018 3:50:20 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 27921-27923 | Added on Saturday, October 27, 2018 3:50:20 PM
+
+Annotations (also known as metadata) provide a formalized way to add information to your code so you can easily use that data at some later point.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29360 | Added on Saturday, October 27, 2018 9:57:27 PM
+
+M.e
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29358-29360 | Added on Saturday, October 27, 2018 9:57:28 PM
+
+we’ve been programming in a fashion much like the stream-of-consciousness narrative device in literature: first one thing happens, then the next. We’re in complete control of all the steps and the order they occur.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29360 | Added on Saturday, October 27, 2018 9:57:40 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29377 | Added on Saturday, October 27, 2018 10:00:30 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29376-29377 | Added on Saturday, October 27, 2018 10:00:30 PM
+
+read Java Concurrency in Practice by Brian Goetz
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29379 | Added on Saturday, October 27, 2018 10:01:13 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29378-29379 | Added on Saturday, October 27, 2018 10:01:13 PM
+
+is Bill Venners’ Inside the Java Virtual Machine, which describes in detail the innermost workings of the JVM, including threads.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29386 | Added on Saturday, October 27, 2018 10:02:15 PM
+
+Mes
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29384-29386 | Added on Saturday, October 27, 2018 10:02:15 PM
+
+Concurrency is about correctly and efficiently controlling access to shared resources. Parallelism uses additional resources to produce an answer faster.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29386 | Added on Saturday, October 27, 2018 10:02:24 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29395 | Added on Saturday, October 27, 2018 10:03:07 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29394-29395 | Added on Saturday, October 27, 2018 10:03:07 PM
+
+Concurrency Accomplishing more than one task at the same time. One task doesn’t need to complete before you start working on other tasks.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29399 | Added on Saturday, October 27, 2018 10:03:35 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29397-29399 | Added on Saturday, October 27, 2018 10:03:35 PM
+
+Parallelism Accomplishing more than one task in multiple places at the same time. This solves so-called compute-bound problems, where a program can run faster if you split it into multiple parts and run those different parts on different processors.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29401 | Added on Saturday, October 27, 2018 10:05:03 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29401-29401 | Added on Saturday, October 27, 2018 10:05:03 PM
+
+time.” Parallelism adds distribution across multiple processors.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29406 | Added on Sunday, October 28, 2018 12:24:37 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29405-29406 | Added on Sunday, October 28, 2018 12:24:38 AM
+
+mechanism—the thread—to implement both concurrency and parallelism.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29412 | Added on Sunday, October 28, 2018 12:25:51 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29411-29412 | Added on Sunday, October 28, 2018 12:25:51 AM
+
+Parallel-Concurrent: Written using parallel programming techniques, the resulting program can still run if there is only a single processor (Java 8 Streams are a good example).
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29424 | Added on Sunday, October 28, 2018 12:27:53 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29422-29424 | Added on Sunday, October 28, 2018 12:27:53 AM
+
+a pure functional language doesn’t have these restrictions. Indeed, a pure functional language solves a large number of concurrency problems, so if you are tackling a difficult concurrency problem you might consider writing that portion in a pure functional language. But ultimately, if you write a system that uses a queue,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29422-29424 | Added on Sunday, October 28, 2018 12:28:15 AM
+
+a pure functional language doesn’t have these restrictions. Indeed, a pure functional language solves a large number of concurrency problems, so if you are tackling a difficult concurrency problem you might consider writing that portion in a pure functional language. But ultimately, if you write a system that uses a queue,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29430 | Added on Sunday, October 28, 2018 12:28:53 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29430-29430 | Added on Sunday, October 28, 2018 12:28:53 AM
+
+Concurrency is a collection of performance techniques focused on the reduction of waiting.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29435 | Added on Sunday, October 28, 2018 12:30:59 AM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29434-29436 | Added on Sunday, October 28, 2018 12:30:59 AM
+
+These are performance techniques: That’s it. The whole point of concurrency is to get your program to run faster. In Java, concurrency is very tricky and difficult, so absolutely do not use it unless you have a significant performance problem—and
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29437 | Added on Sunday, October 28, 2018 6:39:26 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29437-29437 | Added on Sunday, October 28, 2018 6:39:26 PM
+
+The “reduction of waiting” part is important and subtle.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29504 | Added on Sunday, October 28, 2018 6:55:43 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29503-29504 | Added on Sunday, October 28, 2018 6:55:43 PM
+
+The answer is “no, unless your program isn’t running fast enough.”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29504 | Added on Sunday, October 28, 2018 6:56:05 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29503-29504 | Added on Sunday, October 28, 2018 6:56:11 PM
+
+it’s worth the trouble. The answer is “no, unless your program isn’t running fast enough.”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29504 | Added on Sunday, October 28, 2018 6:56:15 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29508 | Added on Sunday, October 28, 2018 6:57:36 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29507-29508 | Added on Sunday, October 28, 2018 6:57:36 PM
+
+program to run faster, break it into pieces and run each piece on a separate processor.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29523 | Added on Sunday, October 28, 2018 6:59:30 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29522-29523 | Added on Sunday, October 28, 2018 6:59:30 PM
+
+A common example of performance improvements in single-processor systems is event-driven programming, in particular user-interface programming.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29550 | Added on Sunday, October 28, 2018 7:11:42 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29547-29550 | Added on Sunday, October 28, 2018 7:11:42 PM
+
+Don’t do it Nothing is true and everything matters Just because it works doesn’t mean it’s not broken You must still understand it
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29583 | Added on Sunday, October 28, 2018 7:23:25 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29582-29583 | Added on Sunday, October 28, 2018 7:23:25 PM
+
+My own experience is that, no matter how certain you are that your code is thread-safe, it’s probably broken.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29650 | Added on Sunday, October 28, 2018 7:38:38 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29650-29650 | Added on Sunday, October 28, 2018 7:38:38 PM
+
+That ship has sailed; Java will never be a language designed for concurrency, but simply a language that allows it.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29654 | Added on Sunday, October 28, 2018 7:39:18 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29652-29654 | Added on Sunday, October 28, 2018 7:39:18 PM
+
+in Java 8: parallel streams and CompletableFutures—this was a magic trick of epic proportions, the like of which I will be very surprised to see repeated3.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29658 | Added on Sunday, October 28, 2018 7:42:52 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29658-29658 | Added on Sunday, October 28, 2018 7:42:52 PM
+
+Threading in Java can never be simple or safe;
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29657 | Added on Sunday, October 28, 2018 7:43:04 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29655-29657 | Added on Sunday, October 28, 2018 7:43:04 PM
+
+CompletableFutures in this chapter. Although they can greatly simplify the way you think about concurrency and the subsequent code, the fundamental issues still exist: all
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29698 | Added on Sunday, October 28, 2018 8:32:41 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29697-29698 | Added on Sunday, October 28, 2018 8:32:41 PM
+
+using parallel streams, then CompletableFutures. This is not just a comparison of the two approaches,
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29726 | Added on Sunday, October 28, 2018 8:44:33 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29721-29727 | Added on Sunday, October 28, 2018 8:44:33 PM
+
+    List<String> primes =       iterate(2, i -> i + 1)         .parallel()              // [1]         .filter(ParallelPrime::isPrime)         .limit(COUNT)         .mapToObj(Long::toString)         .collect(Collectors.toList());
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 29912 | Added on Sunday, October 28, 2018 8:58:42 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 29910-29912 | Added on Sunday, October 28, 2018 8:58:43 PM
+
+I’ve seen them treated as magical panaceas: “Just add parallel() and it will run faster!” I hope I’ve begun to show that this is not the case at all, and that blindly applying the built-in “parallel” operations can sometimes even make things run noticeably slower.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 30002 | Added on Sunday, October 28, 2018 9:03:30 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 30000-30002 | Added on Sunday, October 28, 2018 9:03:30 PM
+
+is defined using the thread-safe AtomicInteger class, to prevent race conditions; parallel() allows get() to be called by multiple threads.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 30017 | Added on Sunday, October 28, 2018 9:05:05 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 30015-30017 | Added on Sunday, October 28, 2018 9:05:05 PM
+
+Basically, you’re asking for random output when you combine parallel() with limit()—which might be just fine for the problem you’re solving. But you must understand that when you do this. It’s an experts-only feature, and not something to be thrown out to argue that “Java gets it wrong.”
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 30019 | Added on Sunday, October 28, 2018 9:06:29 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 30018-30019 | Added on Sunday, October 28, 2018 9:06:29 PM
+
+Well, if you want to produce a stream of int, you can use IntStream.range(),
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 30047 | Added on Sunday, October 28, 2018 9:06:53 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 30046-30047 | Added on Sunday, October 28, 2018 9:06:53 PM
+
+Now we get multiple threads producing the different values, but it’s also only producing 10 values as requested, rather than 1024 in order to produce 10.
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Note on Location 30048 | Added on Sunday, October 28, 2018 9:09:58 PM
+
+Me
+==========
+﻿On Java 8 (Bruce Eckel)
+- Your Highlight on Location 30047-30048 | Added on Sunday, October 28, 2018 9:09:58 PM
+
+Is it any faster? A better question is: When does it start to make sense? Certainly not with a set this small; the
+==========
