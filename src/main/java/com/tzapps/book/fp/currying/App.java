@@ -1,5 +1,9 @@
 package com.tzapps.book.fp.currying;
 
+import clojure.lang.IPersistentCollection;
+import clojure.lang.IPersistentVector;
+import clojure.lang.PersistentVector;
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.Supplier;
@@ -47,11 +51,11 @@ public class App {
 
         Supplier<UUID> randomUUIDSupplier = UUID::randomUUID;
         Supplier<Stream<UUID>> keyGenerator = () -> Stream.generate(randomUUIDSupplier);
-        List<UUID> nextTenKeys = keyGenerator.get().limit(10).collect(Collectors.toList());
-        List<UUID> nextFiveKeys = keyGenerator.get().limit(5).collect(Collectors.toList());
+        IPersistentVector nextTenKeys = PersistentVector.create(keyGenerator.get().limit(10).collect(Collectors.toList()));
+        IPersistentCollection nextFiveKeys = PersistentVector.create(keyGenerator.get().limit(5).collect(Collectors.toList()));
 
-        nextTenKeys.forEach(System.out::println);
-        nextFiveKeys.forEach(System.out::println);
+        System.out.println(nextTenKeys);
+        System.out.println(nextFiveKeys);
 
     }
 
