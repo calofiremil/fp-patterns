@@ -33,14 +33,14 @@ public class App {
         }
 
         //Java 8
-        //v1 - anonymous function
+        //v144 - anonymous function
         Collections.sort(people, (pers1, pers2) -> pers1.getFirstname().compareTo(pers2.getFirstname()));
         people.forEach(System.out::println);
 
-        //v2 - Java library
+        //v2444 - Java library
         Collections.sort(people, Comparator.comparing(Person::getFirstname));
 
-        //v3 - Currying   for fun
+        //v344 - Currying   for fun
         MyComparator<Person> comparator = keyExtractor -> (pers1, pers2) -> keyExtractor.apply(pers1).compareTo(keyExtractor.apply(pers2));
         Collections.sort(people, (p1, p2) -> comparator.apply(Person::getFirstname).apply(p1, p2));
 
