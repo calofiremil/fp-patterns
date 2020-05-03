@@ -6,14 +6,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 @ToString
-public class Aggregate<T> implements IAggregate<T>{
+public class Aggregate<T> implements AggregateUtil<T> {
 
 	public enum FIELD {aggregatId, actor, correlationId, timestamp}
 
 	Map<String, Object> data = new HashMap<>();
 
 	@Override
-	public IAggregate<T> set(T key, Object value) {
+	public AggregateUtil<T> set(T key, Object value) {
 		data.put(key.toString(), value);
 		return this;
 	}
@@ -24,7 +24,7 @@ public class Aggregate<T> implements IAggregate<T>{
 	}
 
 	@Override
-	public IAggregate<T> setAgg(FIELD key, Object value) {
+	public AggregateUtil<T> setAgg(FIELD key, Object value) {
 		data.put(key.name(), value);
 		return this;
 	}

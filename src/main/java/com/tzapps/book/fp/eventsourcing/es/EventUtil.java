@@ -9,9 +9,9 @@ import java.util.Map;
  *            cmd(AcoCreated.class, UUID.randomUUID().toString(), "System", UUID.randomUUID().toString(), LocalDateTime.now().toString())
  *
  * */
-public class Event {
+public class EventUtil {
 
-	public static <T, U> Aggregate<U> applyEvent(IAggregate<T> event, Aggregate<U> agg) {
+	public static <T, U> Aggregate<U> applyEvent(AggregateUtil<T> event, Aggregate<U> agg) {
 		agg.getData().putAll(event.getData());
 		return agg;
 	}

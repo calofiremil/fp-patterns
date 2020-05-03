@@ -4,7 +4,7 @@ package com.tzapps.book.fp.eventsourcing;
 import com.tzapps.book.fp.eventsourcing.domain.Aco;
 import com.tzapps.book.fp.eventsourcing.domain.Aco.AcoCreated;
 import com.tzapps.book.fp.eventsourcing.es.Aggregate;
-import com.tzapps.book.fp.eventsourcing.es.IAggregate;
+import com.tzapps.book.fp.eventsourcing.es.AggregateUtil;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
@@ -13,8 +13,8 @@ import static com.tzapps.book.fp.eventsourcing.domain.Aco.*;
 import static com.tzapps.book.fp.eventsourcing.domain.Aco.AcoNameUpdated;
 import static com.tzapps.book.fp.eventsourcing.domain.AcoCommand.acoNameUpdated;
 import static com.tzapps.book.fp.eventsourcing.domain.AcoEvent.applyAcoNameUpdated;
-import static com.tzapps.book.fp.eventsourcing.es.Command.cmd;
-import static com.tzapps.book.fp.eventsourcing.es.Event.applyEvent;
+import static com.tzapps.book.fp.eventsourcing.es.CommandUtil.cmd;
+import static com.tzapps.book.fp.eventsourcing.es.EventUtil.applyEvent;
 
 public class App {
 
@@ -29,7 +29,7 @@ public class App {
 		System.out.println(acoNameUpdated.get(AcoNameUpdated.name));
 
 		//Create new CMD and Apply the event on a new Aggregate
-		IAggregate<AcoCreated> createAco = cmd(AcoCreated.class, UUID.randomUUID().toString(), "System", UUID.randomUUID().toString(), LocalDateTime.now().toString())
+		AggregateUtil<AcoCreated> createAco = cmd(AcoCreated.class, UUID.randomUUID().toString(), "System", UUID.randomUUID().toString(), LocalDateTime.now().toString())
 				.set(AcoCreated.name, "MyName")
 				.set(AcoCreated.period, "18");
 

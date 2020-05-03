@@ -1,6 +1,6 @@
 package com.tzapps.book.fp.eventsourcing.es;
 
-public class Command {
+public class CommandUtil {
 	public final static <T> Aggregate<T> cmd(Class<T> type) {
 		return new Aggregate<T>();
 	}
